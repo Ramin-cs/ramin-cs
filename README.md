@@ -17,8 +17,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ramindevabbasi@gmail.com)](ramindevabbasi@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ramin__dev/)](https://www.instagram.com/ramin__dev/)
+📫 [![Gmail Badge](https://img.shields.io/badge/-ramindevabbasi@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ramindevabbasi@gmail.com)](ramindevabbasi@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-ramin__dev-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ramin__dev/)](https://www.instagram.com/ramin__dev/)
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Alleria"</a></h2>
