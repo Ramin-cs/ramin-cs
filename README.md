@@ -10,7 +10,6 @@
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=ramin-cs&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramin-cs&theme=tokyonight" alt="mystreak"/>
-![Ramin-cs's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramin-cs&theme=tokyonight&layout=compact)
 
 🌱 I'm currently learning web hacking in my free time.
 
